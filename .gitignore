@@ -1,0 +1,5 @@
+parsed_files/*
+survey_files/*
+header_files/*
+.env
+node_modules
